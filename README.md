@@ -3,4 +3,5 @@
 Used in teaching Git.
 Very good lecture.
 
-I've started a reabasing branch
+I've started a reabasing branch.
+Don't know how it will work.
