@@ -1,4 +1,4 @@
 * rucola
-* lemon
+* lime
 * cheese
 * pepper
